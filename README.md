@@ -1,35 +1,35 @@
- Usage Guide
+# Usage Guide
 Step 1: Upload Image
 Click "Upload Image" and select a file
 
-Step 2: Adjust Settings
+#Step 2: Adjust Settings
 Choose output format (PNG/JPEG/WEBP)
 
 Select background replacement (optional)
 
-Step 3: Process & Download
+#Step 3: Process & Download
 Click "Process Image"
 
 Preview the result
 
-Click "Download" to save
+#Click "Download" to save
 
- Mobile-Friendly Design
+# Mobile-Friendly Design
 Works smoothly on phones & tablets
 
 Buttons and images resize automatically
 
- Future Improvements
+# Future Improvements
 Batch processing (multiple images at once)
 
 More background effects (blur, patterns)
 
 Direct sharing to social media
 
- License
+# License
 Free to use (MIT License)
 
- Need Help?
+# Need Help?
 Contact: Hassan Ali
 Email:hassanimtiaz5980@gmail.com
 
